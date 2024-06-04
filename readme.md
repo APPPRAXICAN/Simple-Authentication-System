@@ -1,8 +1,8 @@
 # Simple-Authentication-System
 A simple Authentication System with two security layer in registration.
 ### Sicurity layers or Subsystems
-- [Captcha subsystem](/)
-- [Email verification subsystem](/)
+- [Captcha subsystem](/backend/Captcha-System/)
+- [Email verification subsystem](/backend/Mailer/)
 ## Requirements & Setup
 - Local server with php preinstalled
 - Gmail for sending emails to other User (on verificatoin purposes) with App Pass Key that our application use through
